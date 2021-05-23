@@ -2,4 +2,8 @@
 dcvdcv
 dcv dj
 dcdc
+<<<<<<< HEAD
 added new content a conflixt content 
+=======
+added new content nnnnnnn
+>>>>>>> worst-branch
