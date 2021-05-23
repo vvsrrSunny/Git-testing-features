@@ -1,3 +1,6 @@
 #1 First edit wdwdw
 added new content a conflixt content dcdvdvvdv
 vdvdnk
+
+new data to enter repo to test global config
+now we are not using globel command 
