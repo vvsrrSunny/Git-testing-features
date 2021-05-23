@@ -4,3 +4,4 @@ vdvdnk
 
 new data to enter repo to test global config
 now we are not using globel command 
+just now we added command "git config --global push.default simple" to jsut use "git push"
